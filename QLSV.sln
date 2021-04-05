@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLSV", "QLSV.csproj", "{56072828-D64A-47D4-BE35-1403DABFC279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form1", "..\Form1\Form1.csproj", "{BF32C299-B098-43CA-A950-7A034DDDE186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56072828-D64A-47D4-BE35-1403DABFC279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56072828-D64A-47D4-BE35-1403DABFC279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56072828-D64A-47D4-BE35-1403DABFC279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56072828-D64A-47D4-BE35-1403DABFC279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF32C299-B098-43CA-A950-7A034DDDE186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF32C299-B098-43CA-A950-7A034DDDE186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF32C299-B098-43CA-A950-7A034DDDE186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF32C299-B098-43CA-A950-7A034DDDE186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E11C5CE-49C3-4EB8-819F-0805FB07D909}
+	EndGlobalSection
+EndGlobal
